@@ -22,8 +22,8 @@ This project uses Python to scrape movie titles from Flickchart, obtain movie in
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/film-sentiment-analysis.git
-    cd film-sentiment-analysis
+    git clone https://github.com/ChipJoker99/film_sentiment_analysis.git
+    cd film_sentiment_analysis
     ```
 
 2. Install the dependencies:
@@ -41,7 +41,7 @@ This project uses Python to scrape movie titles from Flickchart, obtain movie in
 
 1. Run the script:
     ```bash
-    python review_scrape.py
+    python sentiment.py
     ```
 
 2. The collected data will be saved in a CSV file in the `data` folder with a unique name based on the date and a progressive number.
