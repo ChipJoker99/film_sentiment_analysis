@@ -32,8 +32,7 @@ This project uses Python to scrape movie titles from Flickchart, obtain movie in
     ```
 
 3. Manually download the `vader_lexicon` file and place it in the correct directory:
-    - Download the `vader_lexicon` file from this link:
-    -     https://github.com/cjhutto/vaderSentiment/blob/master/vaderSentiment/vader_lexicon.txt
+    - Download the `vader_lexicon` file from this link:https://github.com/cjhutto/vaderSentiment/blob/master/vaderSentiment/vader_lexicon.txt
     - Create a folder named `nltk_data` in your user directory (e.g., `C:\Users\YourUsername\nltk_data`).
     - Inside the `nltk_data` folder, create a subfolder named `sentiment`.
     - Save the `vader_lexicon.txt` file in the `sentiment` folder.
